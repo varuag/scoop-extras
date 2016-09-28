@@ -7,7 +7,7 @@
 			"https://download.elastic.co/kibana/kibana/kibana-4.6.1-windows-x86.zip",
 			"https://raw.githubusercontent.com/vidarkongsli/vidars-scoop-bucket/4828495a4ba7b3bcbc7ef80267ee542a03fe60ad/kibana/kibanasrv.ps1"
 		],
-	"extract_dir": "kibana-4.6.1-windows",
+	"extract_dir": "kibana-4.6.1-windows-x86",
 	"bin" : ["kibanasrv.ps1","bin\\kibana.bat"],
 	"travel_dirs" : ["logs"]
 }
